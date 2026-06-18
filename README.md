@@ -58,3 +58,15 @@
 ---
 
 ## Структура репозитория
+
+GP_IAD/
+├── README.md
+│
+├── data/
+│ │ ├── train.csv
+│ │ ├── val.csv
+│
+├── notebooks/
+│ ├── EDA.ipynb
+│ ├── задача_a.ipynb
+│ ├── задача_B.ipynb
